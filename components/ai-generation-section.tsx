@@ -28,7 +28,7 @@ export default function AIGenerationSection() {
           <div className="flex flex-col justify-start mr-24">
             <div className="text-left">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">
-                Generación de Modelos <span className="text-teal-400">con IA</span>
+                Generación de Modelos 3D<span className="text-teal-400">con IA</span>
               </h2>
               <p className="text-xl text-gray-300 mb-8">
                 Nuestra avanzada tecnología de IA transforma descripciones de texto en modelos 3D precisos,
